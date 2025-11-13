@@ -20,7 +20,8 @@ filtered_items=[item for item in items if 'e' not in item]
 print(filtered_items)
 ```
 ## Output
-![Uploading image.png…]()
+<img width="848" height="259" alt="image" src="https://github.com/user-attachments/assets/133b4403-6fbc-4cdc-9236-0af0cbdd5a66" />
+
 
 ## Result
 Thus program that filters out and returns all elements from a list has been excuted successfully.
